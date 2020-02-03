@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{41F87780-20E4-0AB9-D35D-E333E92228C3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mainmanager.cs">
+    <Files>
+      <File FileName="Assets/Mainmanager.cs" Line="50" Column="8" />
+      <File FileName="Assets/Picemanager.cs" Line="7" Column="49" />
+      <File FileName="Assets/triggergameobjec.cs" Line="41" Column="46" />
+      <File FileName="Assets/Code/DragObj.cs" Line="84" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameJam2020" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a32eabbf-c430-46b9-bf57-62126e534029" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/liuzhewei/Desktop/GameJam2020/Assets/Mainmanager.cs" relfile="Assets/Mainmanager.cs" line="65" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
